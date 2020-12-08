@@ -3,6 +3,6 @@
 	<remote fetch="https://github.com/hvijay/" name="github" />
 	<default revision="main" remote="github" />
 
-	<project name="libshared-rb" remote="github" path="project1/libshared-rb" />
-	<project name="libshared-rb" remote="github" path="project2/libshared-rb" />
+	<project name="libshared-rb" remote="github" path="project1/libshared-rb" sync-s="true" />
+	<project name="libshared-rb" remote="github" path="project2/libshared-rb" sync-s="true" />
 </manifest>
